@@ -23,8 +23,6 @@ string ingresarCadena(string? mensaje)
     return respuesta;
 }
 
-
-
 Tarea ingresarTarea(ref int ID)
 {
     string? descripcion;

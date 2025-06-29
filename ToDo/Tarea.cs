@@ -12,5 +12,4 @@ public class Tarea
         Descripcion = descripcion;
         Duracion = duracion;
     }
-    
 }
